@@ -1,16 +1,16 @@
-# FPS demo 
-Even though its an FPS i dont think i'll have shooting, i dont have the art resources to make the shooting reasonably good so i'm inclined to just not include it for this demo. The game will be implemented in C++. 
+<img src="https://user-images.githubusercontent.com/15716906/156659707-c71979ca-6d20-464c-bbb4-20d950ab0f61.png" alt="shift-logo" width="200"/>
+SHIFT is a small FPS project that im working. The main gimick of this game is that the player has the ability to 'shift' between this world and another reality. This allows for some super cool puzzle/problem-solving.
 
-# Setting
-The game will set in a warehouse with some basic sneak and navigation through the shelving to avoid the enemies.
+It's not supposed to be a super polished thing, but i've done my very best to attempt to create a cool setting and environment to complement the 'shift' mechanics.
 
-# Enemies in this game:
-Sticking with the horror theme, i think the enemies in this game should be extremly deadly. Maybe not zombies per-se but something like the clickers from the last of us, 
-i wont be able to capture the nueance of Naughty Dog's amazing enemies but i'll do my best to make it work from this demo.
+## Setting
+The game is set in a secret underground facility recently damaged by some conflict happening up above. The player must try and retrieve a piece of special quantum technology which has been badly damaged and has openned up fractures in the space-time continuum.  
 
-# Shift mechanic
-A few years ago i was messing around with a mechnic called "SHIFT" that was bascially like moving temporarily to a parallel universe, 
-in the parallel universe the enemies might be in different places allowing you to navigate through without getting caught.
+## Shift Ability
+The player, using their S.H.I.F.T device (Spectrum Hyperspace Interchange Field Transfer) can temporarily jump or shift to an alternate reality, allowing them to avoid or circumnavigate a problem in our world.
 
-# The actual goal?
-perhaps the goal in this game is just to make it through the facility without dying
+## 'Echos'
+The shift ability, though extremely useful, has an unfortunate side-effect. It leaves behinds 'echos' of the player's former self. These enemies are tough, infused with the raw entropy of time and space, they have absolutly nothing to loose by killing you so you'll want to avoid them wherever you can.
+
+## Weapons
+The player is equiped with a Pistol at first, allowing them to defend themselfs at a basic level, but soon upgrades to a shotgun which is equipped with a number of special upgrades to help them get through the facility more safely. And much later in the game, they aquire a 'Beam Oscillator' that is specifically designed to deal with these 'echos' by shifting them to the other reality.
